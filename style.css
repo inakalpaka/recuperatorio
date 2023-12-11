@@ -1,0 +1,9 @@
+body {
+    font-weight: 800;
+
+}
+
+.cuadrado {
+    position: absolute;
+    border: 2px solid black;
+}
